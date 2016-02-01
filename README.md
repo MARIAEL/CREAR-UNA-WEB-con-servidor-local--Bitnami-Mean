@@ -1,16 +1,19 @@
 #HERRAMIENTAS  
 **1.- Bitnami MEAN**  
-**2.- Sublime Text 3**  [MÁS INFO](https://github.com/MARIAEL/INSTALAR-PAQUETES-EN-SUBLIME-TEXT-3)   
+**2.- Sublime Text 3**  
+[MÁS INFO](https://github.com/MARIAEL/INSTALAR-PAQUETES-EN-SUBLIME-TEXT-3)   
        * Bs3  
        * Package Ctrl  
        * Emmet  
 
-**3.- Yeoman**   [MÁS INFO](https://github.com/MARIAEL/EC2/blob/master/Yeoman.md)   
+**3.- Yeoman**   
+[MÁS INFO](https://github.com/MARIAEL/EC2/blob/master/Yeoman.md)   
        * yo (utiliza generadores como angular, que es un framework creado por Google para usar javascript)    
        * bower (sirve para instalar paquetes)  
        * grunt (arranca el servidor y automáticamente sube los cambios)  
 
-**4.- Github desktop**   [MÁS INFO](https://github.com/MARIAEL/GITHUB-DESKTOP)  
+**4.- Github desktop**   
+[MÁS INFO](https://github.com/MARIAEL/GITHUB-DESKTOP)  
 
 
 #PROCEDIMIENTO  
